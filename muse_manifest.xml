@@ -1,0 +1,129 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Corn.fm" resolutions="1x" timestamp="1615477111397">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4235738603" ref="index"/>
+    <file name="nomq_index.css" crc="4191275593" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="corn-fm-favicon.ico" crc="4130828710" ref="index"/>
+    <file name="night-1851685_1280.jpg" crc="4246980759" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="без имени-1-u97-fr.jpg" crc="48917004" ref="index"/>
+    <file name="u106-4.png" crc="43909977" ref="index"/>
+    <file name="u103-4.png" crc="4131311619" ref="index"/>
+    <file name="u100-4.png" crc="4106739073" ref="index"/>
+    <file name="purple.jpg" crc="527647931" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="без имени-1.jpg" crc="3831560385" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u308-4.png" crc="265963803" ref="index"/>
+    <file name="u311-12.png" crc="3781578304" ref="index"/>
+    <file name="u427-4.png" crc="3992221934" ref="index"/>
+    <file name="u430-4.png" crc="178514286" ref="index"/>
+    <file name="u433-4.png" crc="4231979219" ref="index"/>
+    <file name="u436-4.png" crc="379462084" ref="index"/>
+    <file name="без имени-1-u97-fr2.jpg" crc="4248311758" ref="index"/>
+    <file name="u106-42.png" crc="304656262" ref="index"/>
+    <file name="u103-42.png" crc="187850505" ref="index"/>
+    <file name="u100-42.png" crc="223750278" ref="index"/>
+    <file name="purple-u109-fr.jpg" crc="3862931957" ref="index"/>
+    <file name="без имени-1-crop-u230.jpg" crc="3989432855" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u308-42.png" crc="4077901809" ref="index"/>
+    <file name="u311-122.png" crc="104624462" ref="index"/>
+    <file name="u427-42.png" crc="4231548037" ref="index"/>
+    <file name="u430-42.png" crc="150796741" ref="index"/>
+    <file name="u433-42.png" crc="510522528" ref="index"/>
+    <file name="u436-42.png" crc="4184797803" ref="index"/>
+    <file name="без имени-1-u97-fr3.jpg" crc="3980422250" ref="index"/>
+    <file name="u106-43.png" crc="329673666" ref="index"/>
+    <file name="u103-43.png" crc="269228011" ref="index"/>
+    <file name="u100-43.png" crc="115161321" ref="index"/>
+    <file name="purple-u109-fr2.jpg" crc="186594828" ref="index"/>
+    <file name="без имени-1-crop-u2302.jpg" crc="4095992605" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u308-43.png" crc="4278345317" ref="index"/>
+    <file name="u311-123.png" crc="4245248315" ref="index"/>
+    <file name="u427-43.png" crc="4209050726" ref="index"/>
+    <file name="u430-43.png" crc="4149102725" ref="index"/>
+    <file name="u433-43.png" crc="302238172" ref="index"/>
+    <file name="u436-43.png" crc="3834423896" ref="index"/>
+    <file name="u106-44.png" crc="496725817" ref="index"/>
+    <file name="u103-44.png" crc="4213096966" ref="index"/>
+    <file name="u100-44.png" crc="217319693" ref="index"/>
+    <file name="purple-u109-fr3.jpg" crc="3769817430" ref="index"/>
+    <file name="без имени-1-crop-u2303.jpg" crc="3806673911" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u308-44.png" crc="4220218416" ref="index"/>
+    <file name="u311-124.png" crc="167161423" ref="index"/>
+    <file name="u427-44.png" crc="391089429" ref="index"/>
+    <file name="u430-44.png" crc="3809566430" ref="index"/>
+    <file name="u433-44.png" crc="122331593" ref="index"/>
+    <file name="u436-44.png" crc="534329436" ref="index"/>
+    <file name="без имени-1-u97-fr4.jpg" crc="4080346271" ref="index"/>
+    <file name="u106-45.png" crc="4119145459" ref="index"/>
+    <file name="u103-45.png" crc="39860444" ref="index"/>
+    <file name="u100-45.png" crc="3772342691" ref="index"/>
+    <file name="purple-u109-fr4.jpg" crc="4138024548" ref="index"/>
+    <file name="без имени-1-crop-u2304.jpg" crc="119094369" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u308-45.png" crc="4265300145" ref="index"/>
+    <file name="u311-125.png" crc="4188486166" ref="index"/>
+    <file name="u427-45.png" crc="20076375" ref="index"/>
+    <file name="u430-45.png" crc="4149102725" ref="index"/>
+    <file name="u433-45.png" crc="4040380310" ref="index"/>
+    <file name="u436-45.png" crc="398392825" ref="index"/>
+    <file name="без имени-1-u97-fr5.jpg" crc="516452584" ref="index"/>
+    <file name="u106-46.png" crc="329673666" ref="index"/>
+    <file name="u103-46.png" crc="439995593" ref="index"/>
+    <file name="u100-46.png" crc="415371686" ref="index"/>
+    <file name="purple-u109-fr5.jpg" crc="4268811887" ref="index"/>
+    <file name="без имени-1-crop-u2305.jpg" crc="4128764715" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u308-46.png" crc="3837822883" ref="index"/>
+    <file name="u311-126.png" crc="4092693182" ref="index"/>
+    <file name="u427-46.png" crc="4209050726" ref="index"/>
+    <file name="u430-46.png" crc="4286938870" ref="index"/>
+    <file name="u433-46.png" crc="3950089940" ref="index"/>
+    <file name="u436-46.png" crc="95134079" ref="index"/>
+    <file name="без имени-1-u97-fr6.jpg" crc="3988726780" ref="index"/>
+    <file name="u106-47.png" crc="524020298" ref="index"/>
+    <file name="u103-47.png" crc="39860444" ref="index"/>
+    <file name="u100-47.png" crc="289997812" ref="index"/>
+    <file name="purple-u109-fr6.jpg" crc="3960715127" ref="index"/>
+    <file name="без имени-1-crop-u2306.jpg" crc="137920507" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u308-47.png" crc="4028117763" ref="index"/>
+    <file name="u311-127.png" crc="244110557" ref="index"/>
+    <file name="u427-47.png" crc="4231548037" ref="index"/>
+    <file name="u430-47.png" crc="4149102725" ref="index"/>
+    <file name="u433-47.png" crc="510522528" ref="index"/>
+    <file name="u436-47.png" crc="4263676895" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4035394856" seo="true" mt="1613813468146" redirect="true"/>
+</manifest>
